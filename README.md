@@ -1,4 +1,4 @@
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcurty/dependencies.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcurty/dependencies.git/HEAD)
 
 # Reproducible Publications with Rstudio (Project Example)
 
