@@ -1,8 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcurty/dependencies.git/HEAD)
 
-Example Repo to Demonstrate Binder
+# Example Repo to Demonstrate Binder
 
-# Reproducible Publications with Rstudio (Project Example)
+## Reproducible Publications with Rstudio (Project Example)
 
 *Attention!* This is NOT the lesson repository. This is the GitHub repository for the project example used in the [Introduction to Reproducible Publications with Rstudio Workshop](https://github.com/carpentries-incubator/Reproducible-Publications-with-RStudio). Learners will be required to download the project example in order to follow along. 
 
